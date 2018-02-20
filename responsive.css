@@ -179,23 +179,25 @@ img, embed, object, video {
     order:0;
   }
 
-  .top-news {
-    width: 50%;
-    order: 1;
-  }
   .weather {
     width: 50%;
     order: 2;
   }
-  .recent-news {
-    width: 50%;
-    order: 3;
-  }
-  .scores {
-    width: 60%;
-    order: 4;
+
+  .top-news {
+    width: 45%;
+    order: 1;
   }
 
+  .scores__table {
+    width: 20%;
+    order: 3;
+  }
+
+  .recent-news {
+    width: 45%;
+    order: 4;
+  }
 
   .scores__table td:nth-child(n) {
     text-align: center;
