@@ -185,7 +185,7 @@ main {
 .top-news__item {
   border-bottom: 1px solid #E0E0E0;
   padding: 1em 0;
-  line-height: 19.2px;
+  line-height: 17px;
 }
 
 .top-news__item:before {
